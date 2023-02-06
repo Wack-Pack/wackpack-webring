@@ -7,7 +7,19 @@ old school way of browsing the net, basically people's sites served as nodes in 
 
 ## joining the webring
 
-add ur website's full url to the list of urls in the variables file. if you don't have a website, you can make one via github of course or you could use my personal favorite host, neocities.org
+add ur website's full url to the list of urls in the variables file. then to embed the widget, add this where you want it to appear:
+```
+<div id='wackpack-webring'>
+<script type="text/javascript" src="http://github.com/Wack-Pack/wackpack-webring/onionring-variables.js"></script>
+<script type="text/javascript" src="http://github.com/Wack-Pack/wackpack-webring/onionring-widget.js"></script>
+</div>
+```   
+and unless you intend on styling your widget yourself (in which case you should look at onionring.css for reference code) add this to the head section:
+```
+<link rel="stylesheet" href="https://github.com/Wack-Pack/wackpack-webring//onionring.css">
+```
+
+if you don't have a website, you can make one via github of course or you could use my personal favorite host, neocities.org
 
 ## license 
 
