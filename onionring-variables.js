@@ -9,7 +9,6 @@
 var sites = [
 'https://eliyahzayin.neocities.org/',
 'https://arman-m.neocities.org/',
-'https://example.com/'
 ];
 
 //the name of the ring
