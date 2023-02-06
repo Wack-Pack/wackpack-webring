@@ -7,11 +7,12 @@
 
 #webringid {
   margin: 0 auto;
-  padding: 15px; /* creates some space around the widget */
+  padding: 2px; /* creates some space around the widget */
 }
 
 #webringid table {
-  background-color: #ffffff; /* makes the background pure white */
+  background-color: rgba(0,0,0,0.5); /*semi transparent black background for the widget*/
+  border: 2px #ffffff; /* white border*/
   margin: 0 auto; /* centers the widget */
 }
 
