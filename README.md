@@ -18,8 +18,7 @@ and unless you intend on styling your widget yourself (in which case you should 
 ```
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Wack-Pack/wackpack-webring/main/onionring.css">
 ```
-
-if you don't have a website, you can make one via github of course or you could use my personal favorite host, neocities.org
+update: it appears this only works if your site's host supports CORS. which free neocities does not. this whole repo will have to be reworked
 
 ## license 
 
