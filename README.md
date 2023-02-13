@@ -1,5 +1,5 @@
 # wackpack-webring
-im going to host stuff for a wackpack web ring here. uses onionring.js: https://garlic.garden/onionring/
+im going to host stuff for a wackpack web ring here. currently uses onionring.js: https://garlic.garden/onionring/, but planning to rework the whole repo to resemble https://tildegit.org/khuxkm/molniya
 
 ## wtf is a webring
 
